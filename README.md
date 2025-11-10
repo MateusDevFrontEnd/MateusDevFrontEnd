@@ -17,15 +17,18 @@ I enjoy creating simple, functional, and beautiful interfaces, always seeking to
 - Got my first opportunity in web development
 
 ### 📫 How to find me
-- 💼 [LinkedIn](www.linkedin.com/in/mateus-soares-087a78239)
+<a href="mateusbr343@gmail.com.br">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 
 > "With every line of code, a new learning experience." ✨
 
 ### 🌱 languages ​​under study
   <div>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+  <img width="95" height="95" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img width="61" height="95" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img width="136" height="95" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript--v1"/>
 </div>
 - 
 - 
