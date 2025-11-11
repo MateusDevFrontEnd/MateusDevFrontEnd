@@ -6,6 +6,9 @@ I'm currently studying HTML, CSS, and JavaScript, focused on becoming a Front-En
 
 I enjoy creating simple, functional, and beautiful interfaces, always seeking to learn new tools and best development practices.
 
+### 🏫Education
+- It started at Unicid in the Systems Analysis and Development ADS (2025) 
+
 ### 🚀What I'm learning
 - Structure and semantics with **HTML5**
 - Modern styling with **CSS3**
@@ -17,11 +20,7 @@ I enjoy creating simple, functional, and beautiful interfaces, always seeking to
 - Got my first opportunity in web development
 
 ### 📫 How to find me
-<a href="mateusbr343@gmail.com.br">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-
+- 💼 [LinkedIn](www.linkedin.com/in/mateus-soares-087a78239)
 > "With every line of code, a new learning experience." ✨
 
 ### 🌱 languages ​​under study
