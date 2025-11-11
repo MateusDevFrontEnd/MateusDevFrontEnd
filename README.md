@@ -28,19 +28,17 @@ I enjoy creating simple, functional, and beautiful interfaces, always seeking to
   <img width="95" height="95" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img width="61" height="95" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
   <img width="136" height="95" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript--v1"/>
+</div> 
+
+##
+
+ <a href="[https://github.com/rafaballerini](https://github.com/MateusDevFrontEnd)">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDevFrontEnd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDevFrontEnd&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-- 
-- 
-- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ - - - 
-<br>
-<div align="center">
-  <a href="https://github.com/MateusDevFrontD">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDevFrontEnd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDevFrontEnd&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<br><span>
-  &copy; @MateusDevFrontEnd, 2024 - All rights reserved.
+   
+##
+
+  &copy;MateusDevFrontEnd, 2024 - All rights reserved.
 </span>
 
-  
-  ##
