@@ -32,13 +32,6 @@ I enjoy creating simple, functional, and beautiful interfaces, always seeking to
 
 ##
 
- <a href="[https://github.com/rafaballerini](https://github.com/MateusDevFrontEnd)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MateusDevFrontEnd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusDevFrontEnd&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-   
-##
-
   &copy;MateusDevFrontEnd, 2024 - All rights reserved.
 </span>
 
