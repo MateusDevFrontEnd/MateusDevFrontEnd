@@ -31,7 +31,9 @@ I enjoy creating simple, functional, and beautiful interfaces, always seeking to
   <img width="136" height="95" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="javascript--v1"/>
   <img width="136" height="31" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="javascript--v1"/> <br>
 
-  <img width="136" height="95" src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="javascript--v1"/>
+  <img width="136" height="95" src="https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white" alt="javascript--v1"/>
+
+  
 </div> 
 
 ##
