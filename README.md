@@ -1,43 +1,26 @@
 ## 👋 Hi, I'm [Mateus]!
 
-I'm a budding developer, passionate about technology and design.
+### 💫 About Me:
+'m a budding developer, passionate about technology and design.<br><br>I'm currently studying HTML, CSS, and JavaScript, focused on becoming a Front-End Developer.<br><br>I enjoy creating simple, functional, and beautiful interfaces, always seeking to learn new tools and best development practices.<br><br>
 
-I'm currently studying HTML, CSS, and JavaScript, focused on becoming a Front-End Developer.
+### 🏫Education<br>
+It started at Unicid in the Systems Analysis and Development ADS (2025)<br>
 
-I enjoy creating simple, functional, and beautiful interfaces, always seeking to learn new tools and best development practices.
+### 🚀What I'm learning<br>
+Structure and semantics with HTML5<br>Modern styling with CSS3 <br>
+Interactivity with JavaScript<br>
 
-### 🏫Education
-- It started at Unicid in the Systems Analysis and Development ADS (2025) 
+### 🎯 Goals<br>
+Build my portfolio with my own projects<br>Deepen my understanding of the React front-end and frameworks<br>Got my first opportunity in web development
 
-### 🚀What I'm learning
-- Structure and semantics with **HTML5**
-- Modern styling with **CSS3**
-- Interactivity with **JavaScript**
 
-### 🎯 Goals
-- Build my portfolio with my own projects
-- Deepen my understanding of the **React** front-end and frameworks
-- Got my first opportunity in web development
+### 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mateus-soares-087a78239) 
 
-### 📫 How to find me
-- 💼 [LinkedIn](www.linkedin.com/in/mateus-soares-087a78239)
-> "With every line of code, a new learning experience." ✨
-
-### 🌱 languages ​​under study
-  <div>
-  <img width="95" height="95" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img width="61" height="95" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img width="136" height="95" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript--v1"/>
-  <img width="136" height="95" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="javascript--v1"/>
-  <img width="136" height="31" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="javascript--v1"/> <br>
-
-  <img width="136" height="95" src="https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white" alt="javascript--v1"/>
-
-  
-</div> 
+### 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) 
 
 ##
-
   &copy;MateusDevFrontEnd, 2024 - All rights reserved.
 </span>
 
